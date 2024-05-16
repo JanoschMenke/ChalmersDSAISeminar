@@ -1,4 +1,4 @@
-# Chalmers DSAT Seminar
+# Chalmers DSAI Seminar
 
 ---
 
