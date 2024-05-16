@@ -1,4 +1,7 @@
-# Chalmers DSAI Seminar
+
+
+![](https://d2lk14jtvqry1q.cloudfront.net/media/small_Chalmers_university_of_technology_d4a340d13c_a922cd3850.png)
+# DSAI Seminar
 
 ---
 
