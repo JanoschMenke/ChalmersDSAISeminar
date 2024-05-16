@@ -1,11 +1,16 @@
 
+---
 
-![](https://d2lk14jtvqry1q.cloudfront.net/media/small_Chalmers_university_of_technology_d4a340d13c_a922cd3850.png)
-# DSAI Seminar
+<div id="header" align="center", padding: 0px;>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Chalmers_wordmark.svg/1280px-Chalmers_wordmark.svg.png" width="500" />
+  <h1>DSAI Seminar</h1>
+</div>
 
 ---
 
-Here lies the Schedule of the Seminar Series of the [Data Science and Artificial Intelligence Division](https://www.chalmers.se/en/departments/cse/our-research/data-science-and-ai/) at Chalmers University of Technology. 
+
+
+Here lies the Schedule of the Seminar Series of the [Data Science and Artificial Intelligence Division](https://www.chalmers.se/en/departments/cse/our-research/data-science-and-ai/) at the Chalmers University of Technology. 
 Join us as we delve into the depths of machine learning, uncover the mysteries of predictive analytics, and navigate the evolving landscapes of artificial intelligence.
 
 **When:** 14:00 -15:00 most Mondays <br>
