@@ -10,11 +10,11 @@
 
 
 
-Here lies the Schedule of the Seminar Series of the [Data Science and Artificial Intelligence Division](https://www.chalmers.se/en/departments/cse/our-research/data-science-and-ai/) at the Chalmers University of Technology. 
+Here lies the Schedule of the Seminar Series of the [Data Science and Artificial Intelligence Division](https://www.chalmers.se/en/departments/cse/our-research/data-science-and-ai/) at the Chalmers University of Technology.<br> 
 
 Join us as we delve into the depths of machine learning, uncover the mysteries of predictive analytics, and navigate the evolving landscapes of artificial intelligence.
 
-**When:** 14:00 -15:00 most Mondays <br>
+**When:** 14:00 -15:00 most Mondays *See Schedule* <br>
 **Where:** Analysen Room - Edit Building - Campus Johanneberg
 
 ## Can I present?
