@@ -33,7 +33,7 @@ Yes, there is a Zoom Room:
 
 |       Date | Speaker | Title |
 |-----------:|--------:|------:|
-| 02/09/2024 |         |       |
+| 02/09/2024 |Alexandre Graell I Amat (Chalmers)|       |
 | 09/09/2024 |         |       |
 | 16/09/2024 |         |       |
 | 23/09/2024 |         |       |
