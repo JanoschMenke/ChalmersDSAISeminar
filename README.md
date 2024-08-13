@@ -54,7 +54,7 @@ Yes, there is a Zoom Room:
 | 06/01/2025 |No Seminar    |   No Seminar   |
 | 13/01/2025 |         |       |
 | 20/01/2025 |         |       |
-| 27/01/2025 |         |       |
+| 27/01/2025 | Rocío Mercado   |  *Halftime Eval.*     |
 | 03/02/2025 |         |       |
 | 10/02/2025 |         |       |
 | 17/02/2025 |         |       |
