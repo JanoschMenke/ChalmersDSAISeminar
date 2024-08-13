@@ -39,7 +39,7 @@ Yes, there is a Zoom Room:
 | 23/09/2024 |         |       |
 | 30/09/2024 |         |       |
 | 07/10/2024 |         |       |
-| 14/10/2024 |         |       |
+| 14/10/2024 |Ahmet Zahid Balcıoğlu <br>_Chalmers_ | TBA      |
 | 21/10/2024 |         |       |
 | 28/10/2024 |         |       |
 | 04/11/2024 |         |       |
@@ -54,7 +54,7 @@ Yes, there is a Zoom Room:
 | 06/01/2025 |No Seminar    |   No Seminar   |
 | 13/01/2025 |         |       |
 | 20/01/2025 |         |       |
-| 27/01/2025 | Rocío Mercado   |  *Halftime Eval.*     |
+| 27/01/2025 | Rocío Mercado <br>_Chalmers_   |  *Halftime Eval.*     |
 | 03/02/2025 |         |       |
 | 10/02/2025 |         |       |
 | 17/02/2025 |         |       |
