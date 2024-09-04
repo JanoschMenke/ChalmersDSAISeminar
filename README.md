@@ -35,8 +35,8 @@ Yes, there is a Zoom Room:
 |-----------:|--------:|------:|
 | 02/09/2024 |Alexandre Graell I Amat <br>_Chalmers_|       |
 | 09/09/2024 |         |       |
-| 16/09/2024 |Jonathan Thomas <br>_Chalmers_|[Introducing New Abstractions in Emergent Communication](talks/jonathan_thomas.md)|
-| 23/09/2024 |         |       |
+| 16/09/2024 |   |              |
+| 23/09/2024 | Jonathan Thomas <br>_Chalmers_|[Introducing New Abstractions in Emergent Communication](talks/jonathan_thomas.md)|
 | 30/09/2024 |         |       |
 | 07/10/2024 |         |       |
 | 14/10/2024 |         |       |
